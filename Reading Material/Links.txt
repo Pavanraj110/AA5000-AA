@@ -1,0 +1,5 @@
+1) https://www.turing.com/resources/how-llms-are-changing-the-face-of-business-analytics
+2) https://towardsdatascience.com/data-analysis-made-easy-using-llms-to-automate-tedious-tasks-bdc1fee552d5
+3)https://hbr.org/2020/03/whats-the-best-approach-to-data-analytics
+4)https://hbr.org/sponsored/2021/03/embracing-data-analytics-for-more-strategic-value
+5)https://hbr.org/2015/10/the-best-data-scientists-know-how-to-tell-stories
